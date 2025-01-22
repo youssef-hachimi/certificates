@@ -52,10 +52,9 @@ This repository is regularly updated with new certifications as I continue to gr
 
 ## 🤝 Connect with Me
 
-If you’d like to discuss any of these certifications, courses, or opportunities for collaboration, feel free to reach out!  
 
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/youssef-hachimi/)](#)
-- Github: [[Your Github Profile](https://github.com/youssef-hachimi)
+- LinkedIn: https://www.linkedin.com/in/youssef-hachimi/
+- Github: https://github.com/youssef-hachimi
 
 Thank you for visiting my repository! 😊
 
